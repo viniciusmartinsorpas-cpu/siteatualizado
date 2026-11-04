@@ -1,0 +1,7 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="120" rx="30" fill="#000000"/>
+  <path d="M64 76V44h16c10.4 0 17.6 6.7 17.6 16s-7.2 16-17.6 16H64Zm10.2-8.7h5.3c4.8 0 8-2.8 8-7.3s-3.2-7.3-8-7.3h-5.3v14.6Z" fill="#FFFFFF"/>
+  <text x="110" y="73" fill="#FFFFFF" style="font-family:Inter,Arial,sans-serif;font-weight:800;font-size:44px;letter-spacing:-2px">florezta</text>
+  <circle cx="333" cy="60" r="9" fill="#FF4400"/>
+  <text x="110" y="93" fill="#FF4400" style="font-family:Inter,Arial,sans-serif;font-weight:700;font-size:13px;letter-spacing:2px">ESTÚDIOS &amp; NEGÓCIOS</text>
+</svg>
